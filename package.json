@@ -15,7 +15,7 @@
     "gulp-concat-dir",
     "gulp-dir-concat"
   ],
-  "author": "degfy@sina.com",
+  "author": "genkaok@yandex.ru",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/GenkaOk/gulp-dir-concat/issues"
