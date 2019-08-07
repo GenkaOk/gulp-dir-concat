@@ -22,8 +22,8 @@ gulp.task('concat',function(){
 
 ## Options
 
-### options.ext
-``options.ext`` - String append filename. For example: 
+### options.appendName
+``options.appendName`` - String append filename. For example: 
 ```js
 gulp.task('concat',function(){
 	return gulp
